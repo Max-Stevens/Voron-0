@@ -1,5 +1,49 @@
 # Voron Zero
 
+# Customisations
+## Electronics
+### Main Board
+- Controller Octopus Pro 1.0 F446 https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro
+
+### Toolhead
+- AntHead
+    - DELTA ASB02505SHA-A 5V Hotend Fan
+    - GDSTIME 4010 12000RPM 24V Blower Part Cooling Fans
+    - Chirpy's Alt X-Carriage
+- WristWatch Galileo 2 (WWG2)
+- Rapido HF 1.0
+    - 0.4mm Nozzle - Hardened Steel Bondtech CHT
+    - 0.6mm Nozzle - Hardened Steel
+- Toolhead Board EBB36 V1.1 G0B1 https://github.com/bigtreetech/EBB
+- CAN Bus
+
+### Power Supply
+- MeanWell UHP200-24 PSU
+
+## Bed
+- Kirigami Bed
+- 100W 24V DC Keenovo Bed Heater
+- WAGOs
+
+## Rails
+- Fermio Labs YZ-Rails
+- HIWIN X-Rail
+
+## Appearance
+- Mesh Skirts
+- Mesh Electronics and Bottom Cover
+- Hex Deck and Back Panels
+- Wide Guitar Amp Feet - Customised for M5 Nuts
+- Monolith Clear Polycarbonate Side Panels
+- Dual Rear 608 Spool Rollers
+- Mellow Daylight on a Matchstick (10 RGB LEDs)
+    - Customised Mounts
+
+## Filament
+- Overture ASA Light Grey
+- Overture ABS Diamond Grey
+- Bambu Labs ASA-CF Black
+
 [**CLICK HERE TO DOWNLOAD THE ENTIRE REPO**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
 
 You can Download JUST the STL folder by clicking [**HERE**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FVoronDesign%2FVoron-0%2Ftree%2FVoron0.2r1%2FSTLs)
